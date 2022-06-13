@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(249, 47, 11);
+    font-family: Arial;
+    color: white;
+    }
+    h1{color:rgb(30, 250, 10);
+    font-family: Verdana;}
+    
+    .maindiv{
+    background-color: white;
+    color:black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 0 auto;
+    }
